@@ -53,7 +53,6 @@ body{
 .navbar-text{
     font-weight: 650;
 }
-
 .main{
     position: relative;
     display: flex;
@@ -63,6 +62,9 @@ body{
     margin: 10% 5% 6% 5%;
     width: 90%;
     height: 70%;
+}
+.success-login{
+    height: 40vh;
 }
 .voting.z{
     position: absolute;
